@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Projek akhir Alif alfian/1.0.0": {
+        "runtime": {
+          "Projek akhir Alif alfian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projek akhir Alif alfian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

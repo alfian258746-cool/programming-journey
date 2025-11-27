@@ -1,0 +1,17 @@
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\bin\Debug\net9.0-windows\Projek akhir Alif alfian.exe
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\bin\Debug\net9.0-windows\Projek akhir Alif alfian.deps.json
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\bin\Debug\net9.0-windows\Projek akhir Alif alfian.runtimeconfig.json
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\bin\Debug\net9.0-windows\Projek akhir Alif alfian.dll
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\bin\Debug\net9.0-windows\Projek akhir Alif alfian.pdb
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek_akhir_Alif_alfian.Form1.resources
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek_akhir_Alif_alfian.Properties.Resources.resources
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.csproj.GenerateResource.cache
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.AssemblyInfoInputs.cache
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.AssemblyInfo.cs
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.csproj.CoreCompileInputs.cache
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.dll
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\refint\Projek akhir Alif alfian.dll
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.pdb
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\Projek akhir Alif alfian.genruntimeconfig.cache
+C:\Alif Alfian\Projek akhir Alif alfian\Projek akhir Alif alfian\obj\Debug\net9.0-windows\ref\Projek akhir Alif alfian.dll
