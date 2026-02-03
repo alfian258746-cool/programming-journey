@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Selektor tag */
+        p {
+            color:blue
+        }
+        /* selektor kelas */
+        .highlight {
+            background-color: yellow;
+        }
+        /* selektor id */
+        #unique-section {
+            border: 2px solid red;
+            padding: 10px;
+        }
+        /* selektor atribut */
+        a[href] {
+            text-decoration: none;
+            color: green;
+        }
+        /* selektor Universal */
+        * {
+            font-family: Arial, sans-serif;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Contoh penggunaan selektor dalam HTMl</h1>
+    <!--Selektor tag-->
+    <p>Ini adalah paragraf yang menggunakan selektor tag &lt;p&gt</p>
+    <!--Selektor kelas-->
+    <div class="highlight">
+    <p>ini adalah paragraf dengan kelas 'highlight'</p>
+    </div>
+    <!-- Selektor ID -->
+    <div id="unique-section">
+    <p>Ini adalah paragraf dalam div dengan ID "unique-section".</p>
+    </div>
+    <!-- Selektor Atribut -->
+    <a href="https://www.example.com" target="_blank">Link dengan atribut href</a>
+    <!-- selektor universal -->
+<p>Paragraf ini menggunakan selektor universal.</p>
+</body>
+</html>
