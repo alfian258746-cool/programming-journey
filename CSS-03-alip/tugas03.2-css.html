@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Decoration CSS</title>
+
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, sans-serif;
+            background-color: #eef2f7;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 25px;
+            text-decoration: underline;
+        }
+
+        .card {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+            line-height: 1.7;
+        }
+
+        .over {
+            text-decoration: overline;
+            color: #2980b9;
+        }
+
+        .under {
+            text-decoration: underline;
+            color: #27ae60;
+        }
+
+        .strike {
+            text-decoration: line-through;
+            color: #c0392b;
+        }
+
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 6px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Contoh Text Decoration</h1>
+
+    <div class="card">
+        <p>
+            <span class="under">Ini adalah teks dengan dekorasi garis bawah.</span>
+            Teks ini tampil normal tanpa dekorasi tambahan.
+            <span class="strike">Bagian ini diberi garis coret.</span>
+        </p>
+
+        <p>
+            <span class="over">Ini teks dengan dekorasi garis atas.</span>
+            CSS text-decoration berguna untuk mempercantik tampilan teks pada website.
+        </p>
+
+        <p>
+            <span class="highlight">Teks ini diberi efek tambahan agar lebih menarik.</span>
+        </p>
+    </div>
+
+</body>
+</html>

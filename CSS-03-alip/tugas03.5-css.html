@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Efek Text Shadow</title>
+
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            font-family: Arial, sans-serif;
+        }
+
+        .title {
+            font-size: 48px;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: center;
+
+            /* Multiple Shadow Effect */
+            text-shadow: 
+                2px 2px 5px rgba(0, 0, 0, 0.5),
+                4px 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .glow {
+            font-size: 36px;
+            color: #00ffcc;
+            margin-top: 20px;
+            text-align: center;
+
+            /* Glow Effect */
+            text-shadow: 
+                0 0 5px #00ffcc,
+                0 0 10px #00ffcc,
+                0 0 20px #00ffcc;
+        }
+
+        .container {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="title">Efek Bayangan Teks</div>
+        <div class="glow">CSS Text Shadow</div>
+    </div>
+
+</body>
+</html>

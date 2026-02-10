@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Text Spacing CSS</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef2f7;
+            padding: 25px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            letter-spacing: 3px;
+            word-spacing: 6px;
+        }
+
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .tiny-text {
+            font-size: 12px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: #8e44ad;
+        }
+
+        .paragraph-indent {
+            text-indent: 40px;
+            margin-top: 15px;
+        }
+
+        .comfortable-read {
+            line-height: 1.8;
+            margin-top: 15px;
+        }
+
+        .preserve-space {
+            white-space: pre-wrap;
+            background: #f9f9f9;
+            padding: 10px;
+            border-radius: 6px;
+            margin-top: 15px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Contoh Text Spacing</h1>
+
+    <div class="container">
+
+        <p class="tiny-text">
+            Ini contoh teks kecil dengan jarak huruf diperlebar.
+        </p>
+
+        <p class="paragraph-indent">
+            Paragraf ini menggunakan text-indent sehingga baris pertama
+            masuk ke dalam. Biasanya digunakan pada artikel atau karya tulis
+            agar terlihat lebih rapi.
+        </p>
+
+        <p class="comfortable-read">
+            Paragraf ini memiliki line-height yang lebih besar.
+            Jarak antar baris menjadi lebih longgar sehingga teks
+            lebih nyaman dibaca terutama jika paragrafnya panjang.
+        </p>
+
+        <div class="preserve-space">
+Teks ini    mempertahankan
+    spasi dan
+baris sesuai yang ditulis di HTML.
+        </div>
+
+    </div>
+
+</body>
+</html>
