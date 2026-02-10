@@ -1,0 +1,29 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* 1. Nama Warna */
+.warna-nama {
+    color: blue;
+}
+
+/* 2. RGB */
+.warna-rgb {
+    color: rgb(255, 0, 0); /* merah */
+}
+
+/* 3. RGBA */
+.warna-rgba {
+    color: rgba(0, 128, 0, 0.5); /* hijau transparan */
+}
+
+/* 4. HSL */
+.warna-hsl {
+    color: hsl(240, 100%, 50%); /* biru */
+}
+
+/* 5. HSLA */
+.warna-hsla {
+    color: hsla(300, 100%, 40%, 0.6); /* ungu transparan */
+}
