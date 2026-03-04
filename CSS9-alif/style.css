@@ -1,0 +1,34 @@
+
+
+.header {
+    padding: 10px;
+    background-color: white;
+}
+
+.header h1 {
+    margin: 0px;
+    text-align: center;
+}
+
+.navigasi {
+    background-color: rgb(128, 0, 0);
+    padding: 5px;
+    text-align: center;
+}
+
+.navigasi a {
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.navigasi a:hover {
+    background-color: rgb(225, 65, 65);
+}
+
+.article {
+    padding: 10px;
+    background-color: white;
+    text-align: justify;
+}
