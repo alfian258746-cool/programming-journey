@@ -1,0 +1,110 @@
+/* Background */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #e8f5e9; /* bisa diganti gambar */
+    /* contoh gambar:
+    background: url('bg.jpg');
+    background-size: cover;
+    */
+}
+
+/* Header */
+header {
+    background: rgb(79, 246, 79);
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Menu */
+.menu {
+    list-style: none;
+    background: rgb(117, 249, 117);
+    margin: 0;
+    padding: 0;
+}
+
+.menu > li {
+    display: inline-block;
+    position: relative;
+}
+
+.menu a {
+    color: white;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background: limegreen;
+}
+
+/* Dropdown */
+.dropdown {
+    display: none;
+    position: absolute;
+    background: rgb(117, 249, 117);
+    padding: 2px;
+}
+
+.menu li:hover .dropdown {
+    display: block;
+}
+
+/* Gallery */
+.gallery img {
+    width: 80px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+/* Content */
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    font-family: monospace;
+}
+
+/* Hover menu utama */
+li:hover,
+li:focus {
+    background:  rgb(117, 249, 117);
+    cursor: pointer;
+}
+
+/* Hilangkan outline */
+li:focus-within a {
+    outline: none;
+}
+
+/* Dropdown awalnya disembunyikan */
+ul li ul {
+    background:  rgb(117, 249, 117);
+    visibility: hidden;
+    opacity: 0;
+    min-width: 150px;
+    position: absolute;
+    transition: all 0.5s ease;
+    left: 0;
+    display: none;
+}
+
+/* Tampilkan dropdown saat hover */
+ul li:hover > ul,
+ul li:focus-within > ul {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+
+ul li ul li {
+    clear: both;
+    width: 100%;
+}
+
+
